@@ -1,8 +1,6 @@
 # opcodes
 [npm](https://npmjs.com/package/opcodes) | [github](https://github.com/yoyyyyo/opcodes)
 
-a few objects of evm opcodes
-
 # usage examples
 ```js
 import op from 'opcodes'; // default is hexstring
