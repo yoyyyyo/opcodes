@@ -2,7 +2,7 @@
     "name": "opcodes",
     "version": "0.0.1",
     "description": "a few objects of evm opcodes for crafting bytecode on the fly",
-    "homepage": "https://github.com/yoyyyyo/opcodes",
+    "homepage": "https://github.com/yoyyyyo/opcodes.js",
     "main": "./dist/hexstring.js",
     "types": "./dist/hexstring.d.ts",
     "license": "CC0-1.0",
