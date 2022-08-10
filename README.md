@@ -1,5 +1,5 @@
 # opcodes
-[npm](https://npmjs.com/package/opcodes) | [github](https://github.com/yoyyyyo/opcodes)
+[npm](https://npmjs.com/package/opcodes) | [github](https://github.com/yoyyyyo/opcodes.js)
 
 # usage examples
 ```js
