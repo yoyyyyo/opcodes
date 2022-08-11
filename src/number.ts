@@ -1,3 +1,4 @@
+// Homestead
 export const         STOP = 0x00
 export const          ADD = 0x01
 export const          MUL = 0x02
@@ -129,3 +130,23 @@ export const       RETURN = 0xf3
 export const DELEGATECALL = 0xf4
 export const      INVALID = 0xfe
 export const SELFDESTRUCT = 0xff
+
+// Byzantium
+export const RETURNDATASIZE = 0x3d
+export const RETURNDATACOPY = 0x3e
+export const     STATICCALL = 0xfa
+export const         REVERT = 0xfd
+
+// Constantinopole
+export const         SHL = 0x1b
+export const         SHR = 0x1c
+export const         SAR = 0x1d
+export const EXTCODEHASH = 0x3f
+export const     CREATE2 = 0xf5
+
+// Istanbul
+export const     CHAINID = 0x46
+export const SELFBALANCE = 0x47
+
+// London
+export const BASEFEE = 0x48
