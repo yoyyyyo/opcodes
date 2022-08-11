@@ -1,6 +1,6 @@
 {
     "name": "opcodes",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "a few objects of evm opcodes for crafting bytecode on the fly",
     "homepage": "https://github.com/yoyyyyo/opcodes.js",
     "main": "./dist/hexstring.js",
