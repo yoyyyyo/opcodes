@@ -8,7 +8,7 @@ const bufferize = (value: number) => {
     } else {
         const u8 = new Uint8Array(new ArrayBuffer(1))
         u8.set([value])
-        return u8;
+        return u8
     }
 }
 
