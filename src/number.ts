@@ -150,3 +150,6 @@ export const SELFBALANCE = 0x47
 
 // London
 export const BASEFEE = 0x48
+
+// Bellatrix
+export const PREVRANDAO = DIFFICULTY
