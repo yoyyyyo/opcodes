@@ -151,3 +151,5 @@ exports.CHAINID = 0x46;
 exports.SELFBALANCE = 0x47;
 // London
 exports.BASEFEE = 0x48;
+// Paris
+exports.PREVRANDAO = exports.DIFFICULTY;
